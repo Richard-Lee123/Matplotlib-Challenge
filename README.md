@@ -9,6 +9,7 @@ The data was located in the "data" folder, The tools I used is Python, and mainl
 The data that we received came in 2 csv files: "mouse_metadata_path", and "study_results_path." Because of this I needed to combine both datasets, which was easily done because both datasets used the “Mouse ID” to identify each specimen. Here is an example of what the new dataset looked like: 
 
 ----
-![](Images/Mouse Data Combined.png)
+![](Images/Mouse_Data_Combined.png)
 ----
+
 ### Data
