@@ -8,8 +8,10 @@ The data was located in the "data" folder, The tools I used is Python, and mainl
 ### Steps
 The data that we received came in 2 csv files: "mouse_metadata_path", and "study_results_path." Because of this I needed to combine both datasets, which was easily done because both datasets used the “Mouse ID” to identify each specimen. Here is an example of what the new dataset looked like: 
 
-----
 ![](Images/Mouse_Data_Combined.png)
-----
+
+Since combining the two datasets created something of a mess, I had to check to make sure that there were still 249 mices in the overall experiment. I then also dropped any unnecessary duplicates. Now that everything is cleaned up I created a summary statistics table as shown below: 
+
+![](Images/Sum_Stat.png)
 
 ### Data
