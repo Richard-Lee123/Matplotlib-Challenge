@@ -14,4 +14,7 @@ Since combining the two datasets created something of a mess, I had to check to 
 
 ![](Images/Sum_Stat.png)
 
+With what I have I created a few graphs to show the mice distribution:
+
+
 ### Data
