@@ -23,5 +23,9 @@ With what I have found I created a few graphs to show the mice distribution:
 
 Moving along now, I want to focus on 4 different Drug Regimnent; Capomulin, Ramicane, Infubino and Ceftamin. Focusing on these 4 I will need to find the first and third quartile, the IQR, and the lower and upper bounds of the final tumor volume for each drug regiment. Once I have found these I will be able to create a box and wisker plot, so that I can show what the range of the final tumor volume is, and to see if there are any outliers. Below shows a combination of all four graphs and any potential outliers.
 
+![](Images/BW_plot.png)
+
+As you can see most of these drug regiment don't have any outliers, except for Infubinol with one, because of this I located the outlier so that I can identify which mouse it was. 
+
 
 ### TBC
