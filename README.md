@@ -27,5 +27,6 @@ Moving along now, I want to focus on 4 different Drug Regimnent; Capomulin, Rami
 
 As you can see most of these drug regiment don't have any outliers, except for Infubinol with one, because of this I located the outlier so that I can identify which mouse it was. 
 
+![](Images/Mouse_outlier.png)
 
 ### TBC
